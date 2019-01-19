@@ -7,4 +7,4 @@ Some very useful information
 Separated from MASTER
 Adding something so I can understand how do a simple merge.
 Just adding some more updates to this document.
-This is bound to cause some serious trouble.
+Adding some new information to file.
